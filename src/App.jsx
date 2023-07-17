@@ -1,3 +1,5 @@
+/* eslint-disable react-hooks/exhaustive-deps */
+/* eslint-disable react/jsx-key */
 import { useDispatch, useSelector } from "react-redux";
 // import { fetchTodos } from "./redux/slice/todo";
 import "./App.css";
